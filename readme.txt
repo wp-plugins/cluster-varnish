@@ -1,5 +1,5 @@
 === Cluster Varnish ===
-Contributors: 42functions, Byte
+Contributors: 42functions, bytebv
 Tags: varnish, cache
 Tested up to: 4.1
 Stable tag: 1.2.1
