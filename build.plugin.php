@@ -1,9 +1,9 @@
 <?php
 /*
- * Plugin Name: Varnish Cache
- * Description: Varnish cache is a powerful extension which acts as a communication layer between Varnish and WordPress.
+ * Plugin Name: Cluster Varnish
+ * Description: A plugin to combine WordPress and Varnish on the Byte clustered platform.
  * Author: 42functions
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author URI: http://42functions.nl/
  */
 
